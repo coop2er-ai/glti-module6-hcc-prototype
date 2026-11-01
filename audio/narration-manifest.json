@@ -1,0 +1,51 @@
+{
+  "source": "User-uploaded HCC Prototype_1080p.mp4",
+  "voice": "Theo - Soothing",
+  "speed": 1.0,
+  "cuts": "Midpoints of detected silence at script transitions",
+  "review": "Full automatic transcription compared with Read Along; no subjective listening review available",
+  "segments": [
+    {
+      "screen": 7,
+      "source_in": 0,
+      "source_out": 25.987,
+      "file": "audio/screen-07.mp3",
+      "read_along": "Good managers do not treat COMAR as a separate subject that sits on a shelf. They use the regulation when decisions become difficult. In Mrs. Carter\u2019s case, the question is not whether the family is ready or whether a bed is available. The manager needs current assessment information and must determine whether the program can safely meet her needs. Open the Regulatory Guide and notice how the preadmission and admission requirements support that decision."
+    },
+    {
+      "screen": 8,
+      "source_in": 25.987,
+      "source_out": 57.9425,
+      "file": "audio/screen-08.mp3",
+      "read_along": "Knowing that we need an assessment is one thing. Knowing what information should influence the decision is another. We need to understand Mrs. Carter as a whole person. What is her current health status? What assistance does she require throughout the day? What happens at night? What does her fall history tell us? Have there been meaningful changes in her medications or cognition? And just as importantly, can our current staffing, resources, and clinical support meet those needs? Select the information you believe should be considered."
+    },
+    {
+      "screen": 9,
+      "source_in": 57.9425,
+      "source_out": 104.104,
+      "file": "audio/screen-09.mp3",
+      "read_along": "Sometimes a prospective resident lives several states away, and a face-to-face visit simply isn\u2019t practical. That doesn\u2019t mean the manager should admit the resident sight unseen. Be creative. Ask the family to arrange a FaceTime, Zoom, or another video interaction. Even when the person has dementia, you may learn something useful. How is the person groomed? Do they engage with you? Can they follow a simple one- or two-step direction? If it\u2019s safe, can they rise from a chair or take a few steps? Do they appear calm, anxious, irritable, or confused? Pay attention to how much assistance or cueing the family member provides. A virtual interaction does not replace required clinical information. It gives the manager another useful piece of the admission picture."
+    },
+    {
+      "screen": 10,
+      "source_in": 104.104,
+      "source_out": 110.6665,
+      "file": "audio/screen-10.mp3",
+      "read_along": "Before we move on, let\u2019s check the central principle. Which statement best reflects sound admission practice?"
+    },
+    {
+      "screen": 11,
+      "source_in": 110.6665,
+      "source_out": 143.3145,
+      "file": "audio/screen-11.mp3",
+      "read_along": "This is where regulation and good management practice come together. Admission decisions need to be based on current information. Think again about Mrs. Carter. She has recently been hospitalized. Her medications have changed. She has fallen, and her family reports changes in cognition. An assessment that was completed much earlier may not adequately describe her now. The Resident Assessment Tool is not simply paperwork. It helps the manager and clinical team understand the resident\u2019s current status and determine whether the program can appropriately meet those needs."
+    },
+    {
+      "screen": 12,
+      "source_in": 143.3145,
+      "source_out": 173.911,
+      "file": "audio/screen-12.mp3",
+      "read_along": "Let\u2019s finish with one principle. Good admissions don\u2019t happen simply because everything looks acceptable on paper. They happen because someone asked the right questions, obtained current information, collaborated with the appropriate people, and honestly evaluated the program\u2019s ability to provide care. Remember: Right resident. Right setting. Right level of care. When those three align, we\u2019ve created the foundation for a safer placement, a better resident experience, and a stronger assisted living program."
+    }
+  ]
+}
